@@ -1,0 +1,46 @@
+#wrapper {
+    width: 65%;
+    margin: auto;
+    background-color: rgb(230, 230, 230);
+}
+
+header {
+    border: 1px solid rgb(87, 188, 255);
+    background-color: rgb(87, 188, 255);
+    text-align: center;
+    margin-top: 2.5%;
+    padding: 20px;
+    font-family: Arial;
+}
+
+nav {
+    float: right;
+    width: 250px;
+    border: 1px solid rgb(217, 165, 252);
+    background-color: plum;
+    padding: 20px;
+    margin: 20px;
+}
+
+section {
+    color: rgb(219, 33, 0);
+}
+
+main {
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+}
+
+aside {
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    color: rgb(139, 126, 7);
+}
+
+footer {
+  background-color: #002b80;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  font-style: italic;
+}
